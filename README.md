@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+## I am Darot.
+
+💻 Computer science Sophomore<br>
+🧑🏻‍💻 Mobile Developer -> Flutter<br>
+
+🎓 NIPTICT or CADT<br>
+🚌 Internship at BookMeBus<br>
+🤖 Member of E-robot<br>
+
+## Hobbies 
+🧑🏻‍💻 Coding<br>
+⚽️ Football <br>
+🏐 Volleyball <br>
+🎮 Gaming<br>
+
+[![Darot's GitHub stats](https://github-readme-stats.vercel.app/api?username=darot-chen)](https://github.com/darot-chen/github-readme-stats)
 <!--
 **darot-chen/darot-chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
