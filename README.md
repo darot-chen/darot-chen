@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I am Darot.
+### I am Darot.
 
 💻 Computer science Sophomore<br>
 🧑🏻‍💻 Mobile Developer -> Flutter<br>
@@ -9,7 +9,7 @@
 🚌 Internship at BookMeBus<br>
 🤖 Member of E-robot<br>
 
-## Hobbies 
+#### Hobbies 
 🧑🏻‍💻 Coding<br>
 ⚽️ Football <br>
 🏐 Volleyball <br>
