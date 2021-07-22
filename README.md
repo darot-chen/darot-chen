@@ -2,7 +2,7 @@
 
 ### I am Darot.
 
-💻 Computer science Sophomore<br>
+💻 Computer science <br>
 🧑🏻‍💻 Mobile Developer -> Flutter<br>
 
 🎓 NIPTICT or CADT<br>
