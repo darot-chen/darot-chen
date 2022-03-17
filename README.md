@@ -4,16 +4,10 @@
 
 💻 Computer science <br>
 🧑🏻‍💻 Mobile Developer -> Flutter<br>
-
 🎓 NIPTICT or CADT<br>
-🚌 Internship at BookMeBus<br>
-🤖 Member of E-robot<br>
 
 #### Hobbies 
-🧑🏻‍💻 Coding<br>
-⚽️ Football <br>
-🏐 Volleyball <br>
-🎮 Gaming<br>
+🧑🏻‍💻 Coding  |  ⚽️ Football | 🏐 Volleyball | 🎮 Gaming<br>
 
 <!-- [![Darot's GitHub stats](https://github-readme-stats.vercel.app/api?username=darot-chen)](https://github.com/darot-chen/github-readme-stats) -->
 <!--
