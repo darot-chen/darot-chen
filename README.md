@@ -32,4 +32,9 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+
+```text
+Dart   9 mins          █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
