@@ -34,7 +34,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Dart   9 mins          █████████████████████████   100.00 %
+Dart         2 hrs 36 mins   █████████████▓░░░░░░░░░░░   55.08 %
+Markdown     53 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
+Python       31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
+XML          26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
+Properties   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+CSV          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
