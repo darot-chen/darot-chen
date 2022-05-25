@@ -34,12 +34,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Dart         3 hrs 42 mins   ██████████████▒░░░░░░░░░░   57.46 %
-Markdown     1 hr 10 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
-Python       41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
-XML          26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-Groovy       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-Properties   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Dart         6 hrs 22 mins   █████████████████░░░░░░░░   68.07 %
+Markdown     1 hr 10 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+Python       50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
+XML          28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+Groovy       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Properties   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
