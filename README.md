@@ -34,11 +34,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Dart         10 hrs 55 mins  █████████████████▓░░░░░░░   71.02 %
-Properties   1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
-Markdown     57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-YAML         53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-Other        22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Dart         12 hrs 19 mins  ██████████████████▓░░░░░░   74.12 %
+Properties   1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+YAML         52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Markdown     48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+XML          25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Other        23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 ```
 
 <!--END_SECTION:waka-->
