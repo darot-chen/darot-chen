@@ -34,10 +34,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Dart         11 hrs 44 mins  ████████████████░░░░░░░░░   63.64 %
-Python       2 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
-Properties   47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
-Other        42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+Dart         10 hrs 35 mins  ████████████████▓░░░░░░░░   66.47 %
+Python       2 hrs 44 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.16 %
+Other        39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
 ```
 
 <!--END_SECTION:waka-->
