@@ -34,11 +34,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Dart         10 hrs 28 mins  █████████████▓░░░░░░░░░░░   55.08 %
-Markdown     2 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
-Python       1 hr 47 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-YAML         1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
-Other        53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Dart         9 hrs 1 min     █████████████▓░░░░░░░░░░░   54.89 %
+Markdown     2 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+Other        1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
 ```
 
 <!--END_SECTION:waka-->
