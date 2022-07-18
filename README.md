@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Dart       19 hrs 21 mins  ███████████████████████░░   92.21 %
-JSON       52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
-Other      17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Dart       19 hrs 30 mins  ██████████████████████▓░░   91.09 %
+JSON       52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Other      23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
 ```
 
 <!--END_SECTION:waka-->
