@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Dart       7 hrs 28 mins   ██████████████░░░░░░░░░░░   55.99 %
-Groovy     1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
-Other      58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+Dart       7 hrs 50 mins   ████████████████░░░░░░░░░   63.78 %
+Groovy     1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
+Other      54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
 ```
 
 <!--END_SECTION:waka-->
