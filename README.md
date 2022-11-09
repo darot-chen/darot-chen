@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Dart         9 hrs 14 mins   ████████████████▓░░░░░░░░   66.11 %
-XML          1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
-Groovy       1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
-Other        32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Dart         8 hrs 54 mins   ████████████████▒░░░░░░░░   65.30 %
+XML          1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
+Groovy       1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+Other        32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
 ```
 
 <!--END_SECTION:waka-->
