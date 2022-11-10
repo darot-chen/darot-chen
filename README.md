@@ -34,10 +34,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Dart         8 hrs 54 mins   ████████████████▒░░░░░░░░   65.30 %
-XML          1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
-Groovy       1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
-Other        32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Dart         7 hrs 49 mins   █████████████████████░░░░   84.30 %
+Git Config   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Other        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 ```
 
 <!--END_SECTION:waka-->
