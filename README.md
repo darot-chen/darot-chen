@@ -34,9 +34,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Dart         7 hrs 49 mins   █████████████████████░░░░   84.30 %
-Git Config   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-Other        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Dart         8 hrs 42 mins   ████████████████████████░   95.53 %
+Other        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
 ```
 
 <!--END_SECTION:waka-->
