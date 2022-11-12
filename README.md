@@ -34,8 +34,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Dart         8 hrs 42 mins   ████████████████████████░   95.53 %
-Other        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Dart         8 hrs 12 mins   ████████████████████████▒   97.66 %
+YAML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Ruby         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Groovy       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+ERB          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
