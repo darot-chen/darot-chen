@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Ruby       10 hrs 20 mins  ████████████▒░░░░░░░░░░░░   48.82 %
-Dart       6 hrs 7 mins    ███████▒░░░░░░░░░░░░░░░░░   28.95 %
-C          1 hr 55 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
-Other      1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+Ruby       10 hrs 13 mins  ████████████▒░░░░░░░░░░░░   48.79 %
+Dart       6 hrs 7 mins    ███████▒░░░░░░░░░░░░░░░░░   29.26 %
+C          1 hr 59 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+Other      1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
 ```
 
 <!--END_SECTION:waka-->
