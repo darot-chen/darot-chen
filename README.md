@@ -34,10 +34,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Ruby       10 hrs 13 mins  █████████████▓░░░░░░░░░░░   54.87 %
-Dart       6 hrs 7 mins    ████████▒░░░░░░░░░░░░░░░░   32.90 %
-Markdown   52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-Other      45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+Dart       10 hrs 26 mins  ████████████░░░░░░░░░░░░░   48.01 %
+Ruby       9 hrs 20 mins   ██████████▓░░░░░░░░░░░░░░   42.92 %
+Other      45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 ```
 
 <!--END_SECTION:waka-->
