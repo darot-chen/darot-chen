@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Dart         11 hrs 33 mins  ██████████████░░░░░░░░░░░   56.13 %
-Ruby         3 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.85 %
-JavaScript   3 hrs 5 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
-YAML         48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-Other        41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Dart         14 hrs 7 mins   ████████████████░░░░░░░░░   64.09 %
+JavaScript   3 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
+YAML         54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+Markdown     51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+Other        41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
 ```
 
 <!--END_SECTION:waka-->
