@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   10 hrs 47 mins  ██████████████████░░░░░░░   72.29 %
-Dart         2 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.25 %
-Other        1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+JavaScript   9 hrs 46 mins   ██████████████████░░░░░░░   72.51 %
+Dart         1 hr 49 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
+Other        1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
 ```
 
 <!--END_SECTION:waka-->
