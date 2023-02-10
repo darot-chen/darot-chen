@@ -34,12 +34,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   8 hrs 33 mins   █████████████░░░░░░░░░░░░   52.03 %
-JSON         5 hrs 2 mins    ███████▓░░░░░░░░░░░░░░░░░   30.64 %
-TypeScript   1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
-Bash         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-SSH Key      20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+JavaScript   13 hrs 13 mins  ███████████████▒░░░░░░░░░   61.78 %
+JSON         5 hrs 19 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.92 %
+TypeScript   1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+Bash         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+SSH Key      20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
