@@ -34,8 +34,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Dart         21 hrs 39 mins  ███████████████████▓░░░░░   78.63 %
-JavaScript   3 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
+Dart         22 hrs 13 mins  ████████████████████▒░░░░   80.72 %
+JavaScript   2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+Markdown     49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
 Other        43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 ```
 
