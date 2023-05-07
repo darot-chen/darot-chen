@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 
 ```text
 Dart         3 hrs 9 mins    ███████████▒░░░░░░░░░░░░░   45.24 %
-JavaScript   1 hr 42 mins    ██████░░░░░░░░░░░░░░░░░░░   24.39 %
-Other        33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
-XML          28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
-Markdown     26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+JavaScript   1 hr 42 mins    ██████░░░░░░░░░░░░░░░░░░░   24.31 %
+Other        33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
+XML          28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+Markdown     26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
 ```
 
 <!--END_SECTION:waka-->
