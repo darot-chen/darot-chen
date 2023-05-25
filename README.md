@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Dart         13 hrs 41 mins  ██████████████▒░░░░░░░░░░   57.02 %
-JavaScript   4 hrs 6 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.14 %
-HTML         1 hr 42 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
-JSON         1 hr 37 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-Bash         56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+Dart         13 hrs 39 mins  ██████████████▓░░░░░░░░░░   59.27 %
+JavaScript   5 hrs 39 mins   ██████░░░░░░░░░░░░░░░░░░░   24.56 %
+JSON         1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+Bash         56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Other        25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 ```
 
 <!--END_SECTION:waka-->
