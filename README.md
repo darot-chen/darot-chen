@@ -34,8 +34,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Git Config   21 mins         █████████████████░░░░░░░░   68.00 %
-JavaScript   10 mins         ████████░░░░░░░░░░░░░░░░░   32.00 %
+Dart         56 mins         ████████████▒░░░░░░░░░░░░   49.74 %
+JavaScript   34 mins         ███████▓░░░░░░░░░░░░░░░░░   30.67 %
+Git Config   21 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.76 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
