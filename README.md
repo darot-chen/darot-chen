@@ -34,9 +34,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   4 hrs 27 mins   ████████████▓░░░░░░░░░░░░   50.79 %
-Dart         3 hrs 46 mins   ██████████▓░░░░░░░░░░░░░░   42.98 %
-JSON         32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+JavaScript   3 hrs 50 mins   █████████████▓░░░░░░░░░░░   54.70 %
+Dart         2 hrs 45 mins   █████████▓░░░░░░░░░░░░░░░   39.13 %
+Markdown     14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+JSON         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 ```
 
 <!--END_SECTION:waka-->
