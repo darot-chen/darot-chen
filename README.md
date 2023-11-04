@@ -34,9 +34,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         1 hr 9 mins     ██████████████████▓░░░░░░   74.74 %
-YAML         23 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.08 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Dart   48 mins         █████████████████░░░░░░░░   67.43 %
+YAML   23 mins         ████████░░░░░░░░░░░░░░░░░   32.57 %
 ```
 
 <!--END_SECTION:waka-->
