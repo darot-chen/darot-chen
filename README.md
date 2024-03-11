@@ -3,8 +3,7 @@
 ### I am Darot.
 
 💻 Computer science <br>
-🧑🏻‍💻 Mobile Developer -> Flutter<br>
-🎓 NIPTICT or CADT<br>
+🧑🏻‍💻 Software Engineering <br>
 
 #### Hobbies 
 🧑🏻‍💻 Coding  |  ⚽️ Football | 🏐 Volleyball | 🎮 Gaming<br>
