@@ -29,11 +29,3 @@ Here are some ideas to get you started:
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darot-chen&layout=compact&theme=cobalt)](https://github.com/darot-chen/)
 
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
